@@ -1,0 +1,10 @@
+User can view the number of the students registered in the Institution and their details
+User can Edit the student details
+User can register a new student
+User can delete the record for a student passed out
+
+
+Classes
+    MainWindow
+    InsertDialog
+    SearchDialog
