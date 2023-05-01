@@ -1,4 +1,5 @@
 User can view the number of the students registered in the Institution and their details
+User can view the about section to know about who created this programme
 User can Edit the student details
 User can register a new student
 User can delete the record for a student passed out
@@ -6,5 +7,8 @@ User can delete the record for a student passed out
 
 Classes
     MainWindow
+    AboutDialog
+    DeleteDialog
+    EditDialog
     InsertDialog
     SearchDialog
